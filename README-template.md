@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-/Users/katherinesayers/Desktop/Coding projects/QR code project/Screenshot 2023-01-18 at 10.20.28 AM.png
+/Users/katherinesayers/Desktop/Coding projects/QR code project/Updated screenshot.jpg
 
 
 ### Links
@@ -43,5 +43,5 @@ I will work on many more projects and search for better ways to style it in hope
 
 ## Acknowledgments
 
-I followed along with Novidicus Titan https://www.youtube.com/watch?v=UKsVSgSc4Ng&t=920s to get started and to learn how to use the programs and then I worked on the coding part myself, trying to recall what I have learned from FreeCodeCamp. 
+I followed along with Novidicus Titan https://www.youtube.com/watch?v=UKsVSgSc4Ng&t=920s to get started and to learn how to use the programs and then I worked on the coding part myself, trying to recall what I have learned from FreeCodeCamp. Updated project based on feedback from Melvin Aguilar on Frontend Mentor.
 
