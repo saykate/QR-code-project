@@ -24,6 +24,8 @@ h2 {
 .card {
     margin-left: auto;
     margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: auto;
     max-width: 320px;
     height: 500px;
     border-radius: 20px;
